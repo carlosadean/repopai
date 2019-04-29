@@ -1,0 +1,3 @@
+[submodule "repofilho"]
+	path = repofilho
+	url = https://github.com/carlosadean/repofilho.git
